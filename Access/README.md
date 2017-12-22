@@ -1,6 +1,7 @@
 # Sistemas e Aplicacao
 
-At this assignment the job intended was: implement a program that distributes students, from different degrees, through the rooms available for this purpose.
+Goals:
 
-- To start select the sheet “Main Page” and then click on the button “Iniciar”. 
+-Create a database that reflects a phylogenetic tree
+-The system must be able to generate a report for one person that indicates their family relations
 
